@@ -1,11 +1,10 @@
 ## はじめに
-わたしは機械学習の色々な媒体を見ていて「これってなんだっけ？」がよく生じます。最近だと[競馬AI などのギャンブル AI を作る前に考えること
-](https://zenn.dev/junichiro/articles/b15a9964a4507d)という素晴らしい記事を拝見していた時に「LGBMってなんだっけ？」と思いました。そうやって考えているとXGBoostとかcatBoostとか伝言ゲームのように浮かんできて「あ〜網羅的に見直したいな」という欲求が生じたのですがネットですぐに見つかりませんでした。（あった: [機械学習の分類](https://qiita.com/kenjihiranabe/items/992cf18e03e7f884f7e7)）
+わたしは機械学習の色々な媒体を見ていて「これってなんだっけ？」がよく生じます。最近だと[競馬AI などのギャンブル AI を作る前に考えること](https://zenn.dev/junichiro/articles/b15a9964a4507d)という素晴らしい記事を拝見していた時に「LGBMってなんだっけ？」と思いました。そうやって考えているとXGBoostとかcatBoostとか伝言ゲームのように浮かんできて「あ〜網羅的に見直したいな」という欲求が生じたのですがネットですぐに見つかりませんでした。（あった: [機械学習の分類](https://qiita.com/kenjihiranabe/items/992cf18e03e7f884f7e7)）
 
 手元に「あたらしい人工知能の教科書」という素晴らしい本があるのですが、初版が古いのと「式まではいらん」という感じで。
 なので自分用に用意しました。
 
-![](assets/eye-catch.png)
+![](https://raw.githubusercontent.com/yKesamaru/ML_DL_algorithms_guide/refs/heads/master/assets/eye-catch.png)
 
 ## 注意
 - 自分用なので「6GB VRAM」で使用できるかどうかなどが書いてあります。
